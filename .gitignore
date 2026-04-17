@@ -1,0 +1,9 @@
+.github
+.vs/
+*.user
+*.suo
+*.sln.docstates
+x64/
+Debug/
+Release/
+ARM64/

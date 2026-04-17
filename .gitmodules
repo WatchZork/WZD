@@ -1,0 +1,6 @@
+[submodule "WZDK"]
+	path = WZDK
+	url = https://github.com/WatchZork/WZDK.git
+[submodule "WZDS"]
+	path = WZDS
+	url = https://github.com/WatchZork/WZDS.git

@@ -1,0 +1,2 @@
+#treat .slnx as text, preventing binary corruption during complex branch merges.
+*.slnx text eol=lf merge=text
